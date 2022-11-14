@@ -16,7 +16,7 @@
 
         btn.addEventListener('click', function(){
             var myRequest = new XMLHttpRequest();
-            myRequest.open('GET', 'https://legiacong.github.io/sinhVien.json');
+            myRequest.open('GET', 'https://vanlam.github.io/sinhVien.json');
             myRequest.onload = function(){
                 if(myRequest.status >= 200 && myRequest.status < 400){
                     var myData = JSON.parse(myRequest.responseText);

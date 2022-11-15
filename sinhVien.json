@@ -7,7 +7,10 @@
         "lapTrinh": 9,
         "diemTB": null,
         "totNghiep": null,
-        "lienLac": {"email": "teo@gmail.com", "phone": "0999.987.123"}
+        "lienLac": {
+            "email": "teo@gmail.com",
+            "phone": "0999.987.123"
+        }
     },
     {
         "ten": "Tí",
@@ -17,7 +20,10 @@
         "lapTrinh": 5,
         "diemTB": null,
         "totNghiep": null,
-        "lienLac":{"email": "ti@gmail.com", "phone": "0999.987.123"}
+        "lienLac": {
+            "email": "ti@gmail.com",
+            "phone": "0999.987.123"
+        }
     },
     {
         "ten": "Mùi",
@@ -27,6 +33,9 @@
         "lapTrinh": 8,
         "diemTB": null,
         "totNghiep": null,
-        "lienLac": {"email": "mui@gmail.com", "phone": "0999.987.123"}
+        "lienLac": {
+            "email": "mui@gmail.com",
+            "phone": "0999.987.123"
+        }
     }
 ]
